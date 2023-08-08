@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.service;
 
 import ru.netology.service.CashbackHackService;
 
